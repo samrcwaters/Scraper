@@ -1,0 +1,14 @@
+c:\users\renly\documents\visual studio 2017\Projects\Scraper\Scraper\bin\Debug\Scraper.exe.config
+c:\users\renly\documents\visual studio 2017\Projects\Scraper\Scraper\bin\Debug\Scraper.exe
+c:\users\renly\documents\visual studio 2017\Projects\Scraper\Scraper\bin\Debug\Scraper.pdb
+c:\users\renly\documents\visual studio 2017\Projects\Scraper\Scraper\obj\Debug\Scraper.csprojResolveAssemblyReference.cache
+c:\users\renly\documents\visual studio 2017\Projects\Scraper\Scraper\obj\Debug\Scraper.ScrapeResult.resources
+c:\users\renly\documents\visual studio 2017\Projects\Scraper\Scraper\obj\Debug\Scraper.Properties.Resources.resources
+c:\users\renly\documents\visual studio 2017\Projects\Scraper\Scraper\obj\Debug\Scraper.csproj.GenerateResource.Cache
+c:\users\renly\documents\visual studio 2017\Projects\Scraper\Scraper\obj\Debug\Scraper.exe
+c:\users\renly\documents\visual studio 2017\Projects\Scraper\Scraper\obj\Debug\Scraper.pdb
+C:\Users\Renly\documents\visual studio 2017\Projects\Scraper\Scraper\bin\Debug\Json.dll
+C:\Users\Renly\documents\visual studio 2017\Projects\Scraper\Scraper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Renly\documents\visual studio 2017\Projects\Scraper\Scraper\bin\Debug\System.Web.Extensions.dll
+C:\Users\Renly\documents\visual studio 2017\Projects\Scraper\Scraper\bin\Debug\Json.pdb
+C:\Users\Renly\documents\visual studio 2017\Projects\Scraper\Scraper\bin\Debug\Newtonsoft.Json.xml
